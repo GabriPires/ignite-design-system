@@ -1,0 +1,4 @@
+{
+  "extends": "@gabpires-ui/ts-config/react.json",
+  "include": ["src"]
+}

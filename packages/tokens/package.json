@@ -13,6 +13,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@gabpires-ui/ts-config": "*",
     "tsup": "^6.3.0",
     "typescript": "^4.8.4"
   }
