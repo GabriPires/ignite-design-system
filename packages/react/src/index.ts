@@ -1,3 +1,3 @@
-import { colors } from '@gabpires-ui/tokens';
+import { colors } from '@gabpires-ui/tokens'
 
-console.log('Hello world!', colors);
+console.log('Hello world!', colors)
