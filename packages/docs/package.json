@@ -27,6 +27,9 @@
     "vite": "^3.1.8"
   },
   "dependencies": {
+    "@gabpires-ui/react": "*",
+    "@gabpires-ui/tokens": "*",
+    "@gabpires-ui/eslint-config": "*",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
