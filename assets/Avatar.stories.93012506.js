@@ -1,0 +1,2 @@
+import{A as t}from"./index.98b9d606.js";import"./index.d04f53f1.js";import"./iframe.595489e9.js";import"./index.cbaa343a.js";import"./jsx-runtime.52c05f30.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/GabriPires.png",alt:"GabriPires"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.93012506.js.map
